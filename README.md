@@ -23,5 +23,5 @@ Created a treasure hunt game at St. Stephen’s Green Park to foster connections
 2. [Tutorials](https://github.com/piushvaish/large-language-models/tree/main/open-source-models) Notebooks and short courses I completed to deepen my understanding of LLMs. These cover topics such as HuggingFace, Similarity Search, Sentence Transformers, and Generative AI models.
 
 ## Get in Touch
-If you have any questions, feedback, or would like access to the Colab notebooks used in these projects, feel free to reach out to me. I'm here to assist and share the knowledge I've gained during this exciting journey.
+If you have any questions, feedback, or would like access to the code used in these projects, feel free to reach out to me. I'm here to assist and share the knowledge I've gained during this exciting journey.
 
