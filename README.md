@@ -6,6 +6,7 @@ The applications represent my original ideas, which I conceive, plan, develop, a
 ## Navigating the Repository
 
 1. [Mini-projects](https://github.com/piushvaish/large-language-models/tree/main/mini-projects): Developed real-world applications of Generative AI. Text, speech, and images are generated using multi-modal models. These applications have been used in various real-life scenarios and are freely accessible to the public, allowing them to enjoy and share with friends and family.
+* [Optimizing Data Scientist Resume for ATS: Leveraging NLP and LLMs](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/resume-ats.ipynb) Put together a resume for an experienced data scientist that breezes through the automatic tracking system (ATS). This resume makes use of both traditional NLP techniques and the latest LLMs to highlight your skills in a natural and engaging way.
 * [Whodunit Lunch Party](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/Whodunit-Challenges-Share-20240413T055534Z-001.zip)
 Development of a murder mystery role-playing game that garnered a 4.7-star rating, employing LLMs for its creation. The game’s immersive plot, intriguing characters, and cleverly crafted clues were designed to enhance the gaming experience. The project uses a diverse tech stack that includes Python, ChatGPT, Dall-e, open-source models, and Gemini.
 
