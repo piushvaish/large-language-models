@@ -5,16 +5,15 @@ The applications represent my original ideas, which I conceive, plan, develop, a
 
 ## Navigating the Repository
 
-1. [Mini-projects](https://github.com/piushvaish/large-language-models/tree/main/mini-projects): Developed real-world applications of Generative AI. Text, speech, and images are generated using multi-modal models. These applications have been used in various real-life scenarios and are freely accessible to the public, allowing them to enjoy and share with friends and family.
-* [Optimizing Data Scientist Resume for ATS: Leveraging NLP and LLMs](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/resume-ats.ipynb) Put together a resume for an experienced data scientist that breezes through the automatic tracking system (ATS). This resume makes use of both traditional NLP techniques and the latest LLMs to highlight your skills in a natural and engaging way.
-* [Whodunit Lunch Party](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/Whodunit-Challenges-Share-20240413T055534Z-001.zip)
+[Mini-projects](https://github.com/piushvaish/large-language-models/tree/main/mini-projects): Developed real-world applications of Generative AI. Text, speech, and images are generated using multi-modal models. These applications have been used in various real-life scenarios and are freely accessible to the public, allowing them to enjoy and share with friends and family. These are some of the projects:
+
+* [Optimizing Data Scientist Resume for ATS: Leveraging NLP and LLMs](https://github.com/piushvaish/large-language-models/tree/main/mini-projects/application-tracking-system) Put together a resume for an experienced data scientist that breezes through the automatic tracking system (ATS). This resume makes use of both traditional NLP techniques and the latest LLMs to highlight your skills in a natural and engaging way.
+* [Whodunit Lunch Party](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/game-development/Whodunit-Challenges-Share-20240413T055534Z-001.zip)
 Development of a murder mystery role-playing game that garnered a 4.7-star rating, employing LLMs for its creation. The game’s immersive plot, intriguing characters, and cleverly crafted clues were designed to enhance the gaming experience. The project uses a diverse tech stack that includes Python, ChatGPT, Dall-e, open-source models, and Gemini.
 
-* [Immersive Audio Tour: National Gallery of Ireland](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/ngi-highlight-tour-tts.ipynb) 60-minute audio tour through the National Gallery of Ireland, delving into its various rooms and exhibits. Utilizing an open-source text-to-speech (TTS) model, the audio guide is crafted to emulate human speech, incorporating pauses and experimenting with different voices. This approach offers the advantage of personalization, allowing listeners to adjust the speed, translate into other languages.
+* [Immersive Audio Tour: National Gallery of Ireland](https://github.com/piushvaish/large-language-models/tree/main/mini-projects/text-to-speech/ngi-highlight-tour) Adapted and optimised open-source LLMs from platforms like Hugging Face to create innovative solutions e.g., developed a guided museum tour using a generative text-to-audio model, which received a 4.7-star rating from attendees.
 
-
-
-* [ChatGPT-Driven Scavenger Hunt: Doors of South Dublin’s Georgian Architecture](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/Doors%20of%20South%20Dublin%E2%80%99s%20Georgian%20Architecture.docx)
+* [ChatGPT-Driven Scavenger Hunt: Doors of South Dublin’s Georgian Architecture](https://github.com/piushvaish/large-language-models/blob/main/mini-projects/game-development/Doors%20of%20South%20Dublin%E2%80%99s%20Georgian%20Architecture.docx)
 Developed a scavenger hunt game aimed at locating and photographing numerous famous doors of Dublin within a team setting. Utilised Google Maps, LLMs, and creative problem-solving techniques to execute the project effectively.
 
 * [Treasure Hunt: Connect with People, Socialise, Be Creative and Have Fun](https://drive.google.com/file/d/17C91HPZo-7cF3vfHBpn6B5epbviqJoP0/view)
