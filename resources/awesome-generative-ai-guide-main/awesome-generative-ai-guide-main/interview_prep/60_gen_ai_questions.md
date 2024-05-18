@@ -1,5 +1,7 @@
 # Common Generative AI Interview Questions
 
+Owner: Aishwarya Nr
+
 ## Generative Models
 
 1. **What is the difference between generative and discriminative models?**
