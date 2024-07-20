@@ -20,7 +20,7 @@ def generate_response(message, history):
     formatted_history.append({"role": "user", "content": message})
   
     response = client.chat.completions.create(
-    model='gpt-4o',
+    model='gpt-4o-mini',
     messages= formatted_history,
     temperature=0.6, 
     max_tokens = 256
