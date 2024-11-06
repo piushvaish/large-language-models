@@ -862,3 +862,304 @@ Technological Capabilities
 
 Partnerships and Alliances
 <summary> Balbix has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach. </summary> <data_gaps> Specific examples of key partnerships and their impact on Balbix's business would be helpful. </data_gaps>
+
+Competitor Analysis: Threatscape
+Year Established
+<summary> Threatscape was founded in 20102. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> Threatscape is headquartered in Dublin, Ireland2. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> Threatscape has approximately 35 employees2. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for Threatscape are not publicly available2. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> Threatscape targets a wide range of customers across various industries, including large corporate, multinational, and state organizations. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> Threatscape offers business-critical IT security solutions and services, specializing in endpoint, cloud, network, and identity security, as well as threat protection and managed security services2. The focus on real-time threat intelligence and asset management systems is integral to their offerings. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> Threatscape's business model revolves around providing cybersecurity solutions through a mix of services and software. Revenue streams include service fees and subscription-based models2. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in endpoint and cloud security, and robust managed security services. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> Threatscape's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in cybersecurity2. </summary> <data_gaps> Specific examples of how these USPs differentiate Threatscape from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> Threatscape is a recognized player in the cybersecurity market, competing with other major cybersecurity firms. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> Threatscape employs a competitive pricing strategy, offering various pricing models including subscription-based services2. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> Threatscape utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers2. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> Threatscape is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions2. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> Threatscape has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach2. </summary> <data_gaps> Specific examples of key partnerships and their impact on Threatscape's business would be helpful. </data_gaps>
+
+Year Established
+<summary> GetVisibility was founded in 2017. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> GetVisibility is headquartered in Cork, Ireland. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> GetVisibility has approximately 47 employees. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for GetVisibility are not publicly available. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> GetVisibility targets enterprises across various industries, focusing on those needing robust data security and governance solutions. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> GetVisibility offers a suite of data security solutions, including Data Security Posture Management (DSPM), Data Access Governance (DAG), and Data Detection and Response (DDR). The platform provides comprehensive visibility into an organization’s data, ensuring compliance and security across cloud and on-premises environments3. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of each solution would be beneficial. </data_gaps>
+
+Business Model
+<summary> GetVisibility's business model revolves around providing data security solutions through a mix of services and software. Revenue streams include service fees and subscription-based models. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive data security solutions, strong expertise in data governance, and robust integration capabilities. Weaknesses: High competition in the data security market and potential challenges in scaling operations2. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> GetVisibility's USPs include its integrated security solutions, real-time data visibility, and extensive expertise in data governance3. </summary> <data_gaps> Specific examples of how these USPs differentiate GetVisibility from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> GetVisibility is a recognized player in the data security market, competing with other major data security firms. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> GetVisibility employs a competitive pricing strategy, offering various pricing models including subscription-based services. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> GetVisibility utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> GetVisibility is known for its advanced technological capabilities, particularly in real-time data visibility and integrated security solutions3. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> GetVisibility has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach. </summary> <data_gaps> Specific examples of key partnerships and their impact on GetVisibility's business would be helpful. </data_gaps>
+
+Competitor Analysis: VISO Cyber Security
+Year Established
+<summary> VISO Cyber Security was founded in 2010. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> VISO Cyber Security is headquartered in Dublin, Ireland. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> VISO Cyber Security has approximately 35 employees. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for VISO Cyber Security are not publicly available. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> VISO Cyber Security targets a wide range of customers across various industries, including large corporate, multinational, and state organizations. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> VISO Cyber Security offers business-critical IT security solutions and services, specializing in endpoint, cloud, network, and identity security, as well as threat protection and managed security services. The focus on real-time threat intelligence and asset management systems is integral to their offerings. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> VISO Cyber Security's business model revolves around providing cybersecurity solutions through a mix of services and software. Revenue streams include service fees and subscription-based models. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in endpoint and cloud security, and robust managed security services. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> VISO Cyber Security's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in cybersecurity. </summary> <data_gaps> Specific examples of how these USPs differentiate VISO Cyber Security from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> VISO Cyber Security is a recognized player in the cybersecurity market, competing with other major cybersecurity firms. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> VISO Cyber Security employs a competitive pricing strategy, offering various pricing models including subscription-based services. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> VISO Cyber Security utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> VISO Cyber Security is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> VISO Cyber Security has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach. </summary> <data_gaps> Specific examples of key partnerships and their impact on VISO Cyber Security's business would be helpful. </data_gaps>
+
+Competitor Analysis: Integrity360
+Year Established
+<summary> Integrity360 was founded in 20052. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> Integrity360 is headquartered in Dublin, Ireland, with additional offices in London, United Kingdom, and other locations across Europe3. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> Integrity360 has approximately 500 employees2. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for Integrity360 are not publicly available2. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> Integrity360 targets a wide range of customers across various industries, including financial services, healthcare, telecom, and the public sector2. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> Integrity360 offers a comprehensive suite of cybersecurity solutions, including managed security, cyber risk and assurance, cybersecurity testing, and technical consulting. Their services focus on real-time threat intelligence and asset management systems, providing advanced scanning and vulnerability management2. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> Integrity360's business model revolves around providing cybersecurity solutions through a mix of services and software. Revenue streams include service fees and subscription-based models2. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in managed security services, and robust technical consulting capabilities2. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations2. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> Integrity360's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in cybersecurity2. </summary> <data_gaps> Specific examples of how these USPs differentiate Integrity360 from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> Integrity360 is a recognized player in the cybersecurity market, competing with other major cybersecurity firms2. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> Integrity360 employs a competitive pricing strategy, offering various pricing models including subscription-based services2. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> Integrity360 utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers2. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> Integrity360 is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions2. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> Integrity360 has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach2. </summary> <data_gaps> Specific examples of key partnerships and their impact on Integrity360's business would be helpful. </data_gaps>
+
+Competitor Analysis: Slándáil Research
+Year Established
+<summary> Slándáil Research was founded in 2020. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> Slándáil Research is headquartered in Dublin, Ireland. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> Slándáil Research is a boutique security consulting company, but specific employee numbers are not publicly available. </summary> <data_gaps> Exact numbers of employees, partners, and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for Slándáil Research are not publicly available. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> Slándáil Research targets a wide range of customers needing high-quality IT security services. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> Slándáil Research offers a variety of security consulting services, including penetration testing, application security reviews, automated vulnerability assessment, and fuzzing. Their focus on real-time threat intelligence and asset management systems is integral to their offerings. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> Slándáil Research's business model revolves around providing cybersecurity solutions through consulting services. Revenue streams include service fees. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in penetration testing and application security reviews. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> Slándáil Research's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in cybersecurity. </summary> <data_gaps> Specific examples of how these USPs differentiate Slándáil Research from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> Slándáil Research is a recognized player in the cybersecurity market, competing with other major cybersecurity firms. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> Slándáil Research employs a competitive pricing strategy, offering various pricing models including service-based fees. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> Slándáil Research utilizes a combination of direct sales and digital marketing strategies to reach its customers. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> Slándáil Research is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> Slándáil Research has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach. </summary> <data_gaps> Specific examples of key partnerships and their impact on Slándáil Research's business would be helpful. </data_gaps>
+
+Competitor Analysis: StryveSecure
+Year Established
+<summary> StryveSecure was founded in 20082. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> StryveSecure is headquartered in Carlow, Ireland, with additional offices in the UK and Poland. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> StryveSecure has approximately 24 employees2. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for StryveSecure are not publicly available2. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> StryveSecure targets a wide range of customers across various industries, including SMEs needing robust cloud and cybersecurity solutions. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> StryveSecure offers a suite of cybersecurity solutions, including cloud computing, information security, and managed security services. Their services focus on providing seven layers of customized protection, ensuring that security controls are correctly deployed and functioning across all cyber assets2. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> StryveSecure's business model revolves around providing cybersecurity solutions through a mix of services and software. Revenue streams include service fees and subscription-based models2. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in cloud computing and information security, and robust managed security services2. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations2. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> StryveSecure's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in cloud computing and information security2. </summary> <data_gaps> Specific examples of how these USPs differentiate StryveSecure from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> StryveSecure is a recognized player in the cybersecurity market, competing with other major cybersecurity firms2. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> StryveSecure employs a competitive pricing strategy, offering various pricing models including subscription-based services2. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> StryveSecure utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers2. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> StryveSecure is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions2. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> StryveSecure has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach2. </summary> <data_gaps> Specific examples of key partnerships and their impact on StryveSecure's business would be helpful. </data_gaps>
+
+Competitor Analysis: RiskEye
+Year Established
+<summary> RiskEye was founded in 2015. </summary> <data_gaps> None. </data_gaps>
+
+Geographic Locations
+<summary> RiskEye is headquartered in Dublin, Ireland. </summary> <data_gaps> Specific office locations and regional distribution details would be beneficial. </data_gaps>
+
+Size (Employees and Partners/Affiliates)
+<summary> RiskEye has approximately 35 employees. </summary> <data_gaps> Exact numbers of partners and affiliates would provide a clearer picture. </data_gaps>
+
+Revenue / Profits
+<summary> Revenue and profit details for RiskEye are not publicly available. </summary> <data_gaps> Detailed financial information would be helpful. </data_gaps>
+
+Target Customers / Sectors
+<summary> RiskEye targets a wide range of customers across various industries, including large corporate, multinational, and state organizations. </summary> <data_gaps> More specific sector details and customer demographics would be useful. </data_gaps>
+
+Product/Service Portfolio
+<summary> RiskEye offers business-critical IT security solutions and services, specializing in online risk and reputation security. Their services include monitoring and protecting against online threats such as defamation, social engineering, disinformation, and misinformation, using proprietary software for real-time incident monitoring and response. </summary> <data_gaps> Detailed descriptions of specific features and capabilities of their real-time threat intelligence and asset management systems would be beneficial. </data_gaps>
+
+Business Model
+<summary> RiskEye's business model revolves around providing cybersecurity solutions through a mix of services and software. Revenue streams include service fees and subscription-based models. </summary> <data_gaps> Additional details on financing and customer acquisition strategies would be helpful. </data_gaps>
+
+Strengths & Weaknesses
+<summary> Strengths: Comprehensive security solutions, strong expertise in online risk and reputation security, and robust monitoring capabilities. Weaknesses: High competition in the cybersecurity market and potential challenges in scaling operations. </summary> <data_gaps> More detailed analysis of weaknesses and potential areas for improvement would be useful. </data_gaps>
+
+Unique Selling Propositions (USPs)
+<summary> RiskEye's USPs include its integrated security solutions, real-time threat intelligence, and extensive expertise in online risk and reputation security. </summary> <data_gaps> Specific examples of how these USPs differentiate RiskEye from competitors would be beneficial. </data_gaps>
+
+Market Position
+<summary> RiskEye is a recognized player in the cybersecurity market, competing with other major cybersecurity firms. </summary> <data_gaps> Market share data and competitive positioning details would be helpful. </data_gaps>
+
+Pricing Strategy
+<summary> RiskEye employs a competitive pricing strategy, offering various pricing models including subscription-based services. </summary> <data_gaps> Detailed pricing information and comparison with competitors would be beneficial. </data_gaps>
+
+Marketing and Sales Strategies
+<summary> RiskEye utilizes a combination of direct sales, channel partners, and digital marketing strategies to reach its customers. </summary> <data_gaps> More specific marketing campaign examples and sales tactics would be useful. </data_gaps>
+
+Technological Capabilities
+<summary> RiskEye is known for its advanced technological capabilities, particularly in real-time threat intelligence and integrated security solutions. </summary> <data_gaps> Detailed descriptions of specific technologies and innovations would be beneficial. </data_gaps>
+
+Partnerships and Alliances
+<summary> RiskEye has established numerous partnerships and alliances with other technology providers, enhancing its product offerings and market reach. </summary> <data_gaps> Specific examples of key partnerships and their impact on RiskEye's business would be helpful. </data_gaps>
+
