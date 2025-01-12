@@ -1,4 +1,227 @@
+To calculate TAM (Total Addressable Market), SAM (Serviceable Addressable Market), and SOM (Serviceable Obtainable Market), we need to break down the figures provided and make calculations for each step. Here's the breakdown:
 
+Definitions:
+TAM: Total market demand for the product or service.
+SAM: The segment of TAM targeted by the business that matches the product/service.
+SOM: The portion of SAM that the business can realistically capture.
+1. TAM Calculation:
+Formula:
+TAM
+=
+Total Tourists
+×
+Holiday Purpose
+×
+Age Group Proportion
+×
+Gender Proportion
+×
+Activity Proportion
+TAM=Total Tourists×Holiday Purpose×Age Group Proportion×Gender Proportion×Activity Proportion
+2. SAM Calculation:
+Provided directly for each country in the column labeled "SAM".
+3. SOM Calculation:
+Formula: 
+SOM (Tourists)
+=
+SAM
+×
+Assumption Percentage of Market
+SOM (Tourists)=SAM×Assumption Percentage of Market
+SOM (Revenue in Euros)
+=
+SOM (Tourists)
+×
+Walking Tour Price
+SOM (Revenue in Euros)=SOM (Tourists)×Walking Tour Price
+Let’s calculate step-by-step for each country:
+
+UK:
+TAM:
+TAM
+=
+2
+,
+400
+,
+000
+×
+0.26
+×
+0.42
+×
+0.5
+×
+0.49
+=
+64
+,
+210
+TAM=2,400,000×0.26×0.42×0.5×0.49=64,210
+SOM (Tourists):
+SOM (Tourists)
+=
+64
+,
+210
+×
+0.05
+=
+3
+,
+210
+SOM (Tourists)=64,210×0.05=3,210
+SOM (Revenue in Euros):
+SOM (Revenue)
+=
+3
+,
+210
+×
+35
+=
+112
+,
+367
+SOM (Revenue)=3,210×35=112,367
+USA:
+TAM:
+TAM
+=
+1
+,
+200
+,
+000
+×
+0.67
+×
+0.42
+×
+0.5
+×
+0.49
+=
+82
+,
+732
+TAM=1,200,000×0.67×0.42×0.5×0.49=82,732
+SOM (Tourists):
+SOM (Tourists)
+=
+82
+,
+732
+×
+0.05
+=
+4
+,
+137
+SOM (Tourists)=82,732×0.05=4,137
+SOM (Revenue in Euros):
+SOM (Revenue)
+=
+4
+,
+137
+×
+35
+=
+144
+,
+780
+SOM (Revenue)=4,137×35=144,780
+France:
+TAM:
+TAM
+=
+453
+,
+000
+×
+0.41
+×
+0.42
+×
+0.5
+×
+0.49
+=
+19
+,
+112
+TAM=453,000×0.41×0.42×0.5×0.49=19,112
+SOM (Tourists):
+SOM (Tourists)
+=
+19
+,
+112
+×
+0.05
+=
+956
+SOM (Tourists)=19,112×0.05=956
+SOM (Revenue in Euros):
+SOM (Revenue)
+=
+956
+×
+35
+=
+33
+,
+445
+SOM (Revenue)=956×35=33,445
+Italy:
+TAM:
+TAM
+=
+248
+,
+000
+×
+0.41
+×
+0.42
+×
+0.5
+×
+0.49
+=
+10
+,
+463
+TAM=248,000×0.41×0.42×0.5×0.49=10,463
+SOM (Tourists):
+SOM (Tourists)
+=
+10
+,
+463
+×
+0.05
+=
+523
+SOM (Tourists)=10,463×0.05=523
+SOM (Revenue in Euros):
+SOM (Revenue)
+=
+523
+×
+35
+=
+18
+,
+310
+SOM (Revenue)=523×35=18,310
+Final Summary:
+Country	TAM (Tourists)	SAM (Provided)	SOM (Tourists)	SOM (Revenue in Euros)
+UK	64,210	64,210	3,210	112,367
+USA	82,732	82,732	4,137	144,780
+France	19,112	19,112	956	33,445
+Italy	10,463	10,463	523	18,310
 ### Market Research Report: Cybersecurity Threat Intelligence and Asset Management Platform
 
 <market_research_report>
