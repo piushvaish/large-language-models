@@ -912,3 +912,182 @@ Each opportunity continues to align with the end user profile's:
 - Need for meaningful connections
 
 
+TEAM MEMBERS
+Creating a diverse and well-rounded team is crucial for the success of a startup, especially one focused on travel and cultural immersion. Below is a **team of 8-10 members** with varied demographics, profiles, cultural backgrounds, interests, hobbies, mental models, and skills. This team is designed to bring a wide range of perspectives and expertise to the table.
+
+---
+
+### **1. CEO / Co-Founder**
+- **Name:** Aisha Patel
+- **Demographics:** 32, Female, Indian-American
+- **Background:** MBA from Stanford, former product manager at a travel tech company.
+- **Skills:** Strategic planning, leadership, and business development.
+- **Interests:** Sustainable tourism, hiking, and photography.
+- **Mental Model:** Visionary and data-driven, with a focus on long-term growth and impact.
+- **Cultural Background:** Grew up in a multicultural household, with experience living in India, the US, and Europe.
+
+---
+
+### **2. CTO / Co-Founder**
+- **Name:** Javier Morales
+- **Demographics:** 35, Male, Spanish
+- **Background:** Computer Science degree from MIT, former software engineer at a leading AI company.
+- **Skills:** AI, machine learning, and full-stack development.
+- **Interests:** Augmented reality, gaming, and robotics.
+- **Mental Model:** Problem-solver with a focus on scalable and innovative tech solutions.
+- **Cultural Background:** Born in Spain, with experience working in Silicon Valley and Barcelona.
+
+---
+
+### **3. Head of Product Design**
+- **Name:** Mei Lin
+- **Demographics:** 28, Female, Chinese-Canadian
+- **Background:** Degree in Interaction Design from Emily Carr University, former UX designer at a top design agency.
+- **Skills:** User experience design, prototyping, and user research.
+- **Interests:** Minimalist design, calligraphy, and urban exploration.
+- **Mental Model:** User-centric, with a focus on creating intuitive and aesthetically pleasing products.
+- **Cultural Background:** Grew up in Vancouver, with strong ties to her Chinese heritage.
+
+---
+
+### **4. Head of Marketing**
+- **Name:** Omar Johnson
+- **Demographics:** 30, Male, African-American
+- **Background:** Degree in Marketing from Howard University, former digital marketing manager at a lifestyle brand.
+- **Skills:** Branding, social media strategy, and influencer partnerships.
+- **Interests:** Music production, fashion, and community building.
+- **Mental Model:** Creative and data-driven, with a focus on storytelling and engagement.
+- **Cultural Background:** Raised in Atlanta, with a passion for African-American culture and history.
+
+---
+
+### **5. Head of Content and Community**
+- **Name:** Sofia Rossi
+- **Demographics:** 29, Female, Italian
+- **Background:** Degree in Journalism from the University of Milan, former travel blogger and content creator.
+- **Skills:** Content creation, storytelling, and community management.
+- **Interests:** Writing, photography, and culinary arts.
+- **Mental Model:** Empathetic and detail-oriented, with a focus on authentic storytelling.
+- **Cultural Background:** Born and raised in Rome, with extensive travel experience across Europe and Asia.
+
+---
+
+### **6. Head of Operations**
+- **Name:** Ahmed Khan
+- **Demographics:** 34, Male, Pakistani-British
+- **Background:** Degree in Operations Management from LSE, former operations manager at a logistics startup.
+- **Skills:** Process optimization, supply chain management, and team coordination.
+- **Interests:** Chess, cricket, and urban gardening.
+- **Mental Model:** Analytical and organized, with a focus on efficiency and scalability.
+- **Cultural Background:** Grew up in London, with family roots in Pakistan.
+
+---
+
+### **7. Lead Developer**
+- **Name:** Priya Desai
+- **Demographics:** 27, Female, Indian
+- **Background:** Degree in Computer Science from IIT Bombay, former backend developer at a fintech company.
+- **Skills:** Backend development, API integration, and cloud computing.
+- **Interests:** Open-source projects, yoga, and classical music.
+- **Mental Model:** Logical and detail-oriented, with a focus on building robust systems.
+- **Cultural Background:** Born in Mumbai, with a passion for Indian classical arts.
+
+---
+
+### **8. Customer Experience Manager**
+- **Name:** Liam O’Connor
+- **Demographics:** 26, Male, Irish
+- **Background:** Degree in Psychology from Trinity College Dublin, former customer success manager at a SaaS company.
+- **Skills:** Customer support, user feedback analysis, and relationship management.
+- **Interests:** Gaelic football, podcasting, and mental health advocacy.
+- **Mental Model:** Empathetic and solution-oriented, with a focus on user satisfaction.
+- **Cultural Background:** Raised in Dublin, with a strong connection to Irish culture and traditions.
+
+---
+
+### **9. Data Analyst**
+- **Name:** Elena Vasquez
+- **Demographics:** 31, Female, Mexican
+- **Background:** Degree in Data Science from Universidad Nacional Autónoma de México, former data analyst at a retail company.
+- **Skills:** Data visualization, predictive analytics, and A/B testing.
+- **Interests:** Cooking, salsa dancing, and data journalism.
+- **Mental Model:** Analytical and curious, with a focus on deriving actionable insights from data.
+- **Cultural Background:** Born in Mexico City, with a passion for Mexican cuisine and culture.
+
+---
+
+### **10. Sustainability Advisor (Part-Time)**
+- **Name:** Yara Al-Mansoori
+- **Demographics:** 40, Female, Emirati
+- **Background:** Degree in Environmental Science from the American University of Sharjah, former sustainability consultant.
+- **Skills:** Sustainable tourism, environmental impact assessment, and green technology.
+- **Interests:** Desert exploration, falconry, and renewable energy.
+- **Mental Model:** Holistic and forward-thinking, with a focus on balancing growth and sustainability.
+- **Cultural Background:** Born in Dubai, with a deep connection to the UAE’s natural heritage.
+
+You are tasked with conducting a dot voting exercise with a diverse team to evaluate opportunities based on specific design principles. Follow these instructions carefully:
+
+1. Team Introduction:
+Here is the list of team members participating in the dot voting exercise:
+<team_members>
+{{TEAM_MEMBERS}}
+</team_members>
+
+2. Image Description:
+You will be analyzing an image containing various opportunities written on post-it notes. Here is a description of the image:
+<image_description>
+{{IMAGE_DESCRIPTION}}
+</image_description>
+
+3. Design Principles Criteria:
+When evaluating each opportunity, consider the following design principles:
+
+a) Empathy Alignment:
+- Does the solution address core needs, motivations, and challenges?
+- Does it reflect a deep understanding?
+- Does it help storytellers feel more confident, valued, and recognized?
+- Does it amplify personal stories, cultural backgrounds, or unique niches?
+
+b) Authenticity:
+- Does the solution provide genuine cultural, historical, or local insights?
+- Does it avoid over-commercialization and maintain authenticity?
+
+c) Financial Sustainability:
+- Does it provide a reliable, year-round income stream?
+- Is it scalable, offering opportunities to expand services or reach new customers?
+
+d) Ease of Use:
+- Is the solution simple and seamless to use?
+- Does it reduce stress and confusion?
+
+e) Engagement and Storytelling:
+- Does it create memorable, emotionally engaging moments?
+- Does it improve the customer's experience on the tour?
+- Will it lead to positive reviews and repeat business?
+
+f) Feasibility and Scalability:
+- Can it be realistically implemented with available resources?
+- Does it have potential to scale while maintaining quality and authenticity?
+- Will it positively impact local communities or economies?
+- Does it preserve cultural integrity and avoid commercialization or stereotyping?
+
+4. Dot Voting Process:
+a) Review each opportunity on the post-it notes in the image.
+b) Each team member should allocate 5 votes (dots) to the opportunities they believe best meet the design principles criteria.
+c) Team members can distribute their votes as they see fit, including placing multiple votes on a single opportunity if they feel strongly about it.
+d) Consider the diverse perspectives of the team members when voting.
+
+5. Results and Analysis:
+After conducting the dot voting exercise, provide the following information:
+
+a) List the top 3-5 opportunities that received the most votes.
+b) For each of these top opportunities, provide:
+   - The number of votes it received
+   - A brief explanation of why it was popular among the team
+   - How it aligns with the design principles criteria
+c) Analyze any patterns or trends in the voting results, considering the diverse backgrounds of the team members.
+d) Identify any opportunities that surprisingly received few or no votes, and hypothesize why.
+
+Present your results and analysis in a clear, organized manner using appropriate headings and bullet points where necessary. Begin your response with:
+
+<dot_voting_results>
