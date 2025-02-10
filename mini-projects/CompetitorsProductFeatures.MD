@@ -965,3 +965,189 @@ Significant data gaps exist regarding product strengths and weaknesses, particul
   </criterion_name>
 </competitor_analysis>
 
+<competitor_analysis>
+  <criterion_name>
+    Product Features
+    <summary>
+    TripAdmit offers a suite of features focused on enhancing the tour and activity experience, particularly post-tour engagement. Core product features include digital tipping (TipDirect), AI-assisted review collection, tour upselling, social media connection, and booking software integration. Unique features appear to be the AI-assisted review collection and the strong focus on digital tipping with instant payouts for guides. Compared to general tour and activity software, TripAdmit seems to specialize in tools that boost guide earnings, customer reviews, and post-tour customer relationships, rather than comprehensive booking or operational management. Key features include: Digital Tipping, Tour Upsell, Social Connect, NFC Tipping Cards, Multicurrency Support, Guide App, AI Review Collection, Booking Software Integration, and more.
+    </summary>
+    <data_gaps>
+    A direct comparison of product features is limited by the lack of information about 'our' product.  More detailed feature lists for each of TripAdmit's pricing plans (Essential, Pro, Pro Plus) would be beneficial to understand feature differentiation and target markets.
+    </data_gaps>
+  </criterion_name>
+
+  <criterion_name>
+    Pricing and Average Selling Price (ASP)
+    <summary>
+    TripAdmit employs a tiered pricing strategy with 'Simple and transparent pricing for all business sizes'. They offer a free plan with transaction fees (5.9% transaction fee + 2.9% transfer fee paid by the customer).  Paid plans (Essential, Pro, and Pro Plus) are also available, with a 30-day free trial for all plans and a 15% discount for annual subscriptions. The minimum price is effectively the transaction fee on the free plan.  The ASP is not explicitly stated in the provided data.  Pricing appears to be primarily impacted by the chosen plan level (Free, Essential, Pro, Pro Plus) and billing cycle (monthly vs. annual). Volume or number of seats are not mentioned as direct pricing factors in the available data.
+    </summary>
+    <data_gaps>
+    Specific pricing details for the Essential, Pro, and Pro Plus plans are missing.  Information on the Average Selling Price (ASP) is not available.  Further data on the feature sets and pricing for each paid plan is needed for a complete pricing analysis.  It is unclear if factors such as business size or transaction volume influence pricing beyond the plan level.
+    </data_gaps>
+  </criterion_name>
+
+  <criterion_name>
+    Product strength / weaknesses
+    <summary>
+    Strengths of TripAdmit's product include its focus on digital tipping and AI-assisted review collection, which are highlighted as innovative and effective features. Customer reviews suggest strengths in ease of use, excellent customer support, seamless integration, and the ability to increase guide earnings and customer engagement post-tour.  The platform is praised for its user-friendly interface and helpful customer service.  Weaknesses are less evident in the provided data.  One potential weakness, inherent to online systems, is the reliance on internet access, although this is a general industry challenge.  Another point mentioned in search results, but not directly attributed as a weakness of TripAdmit itself, is the impersonal nature of online booking systems in general. Customer perception of TripAdmit's product design, quality, and price appears to be positive, with testimonials emphasizing its helpfulness, ease of use, and strong customer support.
+    </summary>
+    <data_gaps>
+    Detailed information on product weaknesses is lacking.  More comprehensive customer reviews, including critical feedback, would provide a more balanced view of product weaknesses.  Information on customer perception of product design and quality is based on limited review snippets; a broader analysis of customer feedback on these aspects would be beneficial.
+    </data_gaps>
+  </criterion_name>
+</competitor_analysis>
+
+<criterion_name>
+Product Features
+</criterion_name>
+<summary>
+Withlocals is an online platform that connects travelers with local hosts to offer private, personalized tours and experiences. Their core product features include:
+
+*   **Authentic Travel Experiences:** Withlocals focuses on providing travelers with unique and memorable experiences by connecting them with locals. They aim to offer a more authentic and personal way to travel, moving away from traditional tourist routes.
+*   **Customizable and Private Tours:**  Tours are 100% customizable, allowing local hosts to tailor experiences to the wishes of the guests.  Experiences are private, meaning only the guest and their chosen host participate, no strangers are included in the tour.
+*   **Variety of Experiences:**  Withlocals offers a range of experiences including food tours, city highlight tours, walking tours, day trips, night tours, and bike tours. They also offer experiences focused on culture and history.
+*   **Experiences in Multiple Destinations:**  They operate in numerous cities across the world, connecting travelers with local experts in various locations.
+*   **Responsible Travel:** Withlocals emphasizes responsible travel, designing tours with consideration for people, places, and the planet. They aim to support sustainable livelihoods for local hosts and small businesses and promote ethical travel.
+*   **Platform for Local Hosts:** Withlocals provides a platform for local individuals to become hosts and offer their services. Hosts can create profiles, list experiences, and connect with travelers.
+*   **Booking and Payment Platform:** Withlocals handles bookings and payments through their platform. Guests make full payment upfront when booking, and Withlocals transfers payment to the host after deducting their service fee once the experience is completed.
+*   **Instant Confirmation and On-Request Bookings:** Some experiences offer instant confirmation, while others are "on request" and require host confirmation within 48 hours.
+
+Unique features of Withlocals appear to be their strong emphasis on personalization and private tours directly with locals, and their focus on responsible and sustainable travel.  It is difficult to directly compare product features to competitors without knowing what specific features are being asked about from "our product". However, if "our product" also offers tours and experiences, a comparison could be made on the level of personalization, the types of experiences offered, the pricing structure, and the emphasis on sustainability and local connection.
+
+</summary>
+<data_gaps>
+To compare product features effectively, more information is needed about "our product" and its features.  Specifically, understanding the features of "our product" in categories such as tour customization, tour types, pricing models, and sustainability initiatives would allow for a direct feature comparison.
+</data_gaps>
+</criterion_name>
+
+<criterion_name>
+Pricing and Average Selling Price (ASP)
+</criterion_name>
+<summary>
+Withlocals operates with a pricing model where hosts set a "net price" they wish to receive. Withlocals then adds a commission on top of this net price to determine the total selling price for guests.
+
+*   **Minimum Price:**  The minimum price charged by competitors is not explicitly stated in the provided research data. However, examples of tour prices are given, such as city highlight tours from €27-€41 per person and food tours from €36-€96 per person. This suggests a range of starting prices depending on the type and location of the experience.
+*   **Average Selling Price (ASP):**  The research data mentions an expected average booking value of around $110 USD (approximately €100 EUR based on current exchange rates). However, this data is from 2013, so the current ASP may be different. More recent data would be needed to determine the current ASP.
+*   **Factors Impacting Price:**
+    *   **Net Price Set by Host:** The primary factor influencing price is the net price set by the local host for their time and expertise.
+    *   **Withlocals Commission:** Withlocals adds a commission on top of the net price.  In one example, a 32% commission is mentioned.  Another source from 2013 states a 20% fee charged to the traveler. More recent data indicates a 10% service fee is added to the tour price for platform operation and support.  It's unclear if the commission structure has changed or if these are different fees.
+    *   **Tour Type and Duration:**  Prices vary based on the type of tour (e.g., food tour vs. city tour) and the duration of the experience (e.g., 2-hour vs. 3-hour tours).
+    *   **Group Size:**  While most tours are private, the cost per person can decrease for larger groups as many costs are fixed per tour, not per person.
+    *   **Destination:** Prices vary by destination, reflecting local costs and host pricing in different cities and regions.
+
+</summary>
+<data_gaps>
+There is a lack of clarity on the current commission structure and service fees charged by Withlocals.  More up-to-date information on their exact commission percentage and service fee structure would be beneficial.  Additionally, current ASP data would be helpful to understand their current average price point.
+
+<criterion_name>
+Product Features
+</criterion_name>
+<summary>
+Tour Marketing Suite provides digital marketing and software solutions specifically for tour and activity providers. Their core product features revolve around digital marketing and automation tools designed to drive revenue and improve operational efficiency for tourism businesses.
+
+**Core Product Features:**
+*   **Digital Marketing:**
+    *   PPC Digital Marketing (Google & Bing): Strategies to drive targeted traffic and conversions through pay-per-click advertising.
+    *   Social Media Management: Optimization of brand presence and engagement across social media platforms, particularly Facebook with audience targeting.
+    *   Email Marketing:  Email marketing automation to increase tour sales at a low cost.
+    *   SEO Services: Website optimization for search engines to improve organic reach.
+    *   Google Things to Do: Visibility strategies to enhance listings on Google's 'Things To Do'.
+    *   Remarketing (Google & Bing): Retargeting strategies to improve conversion rates.
+*   **Automation & Customer Care Tools:**
+    *   Chatbots: Integration of chatbots with reservation systems for 24/7 customer assistance.
+    *   Email Automation: Automated email marketing campaigns.
+    *   Digital Waivers: Real-time, integrated digital waivers.
+    *   Review Management: Tools to automate and manage customer reviews.
+    *   Call Tracking: Call tracking and dedicated phone lines to understand customer acquisition channels.
+    *   Marketing Dashboards: Dashboards to track marketing campaign effectiveness.
+*   **Additional Services:**
+    *   Channel & OTA Consulting: Revenue management consulting.
+    *   Website Development: Website design services.
+
+**Unique Product Features:**
+Based on the provided search results, the unique aspect of Tour Marketing Suite seems to be its specialization in the tour and activity industry. They offer a suite of tools and services specifically tailored to the needs of these businesses, combining marketing expertise with industry-specific technology solutions.  They also emphasize a US-based team with 30 years of tourism marketing experience and being certified partners with Google, Bing, and Facebook.
+
+**Comparison of Product Features:**
+The provided information does not offer details on specific competitor product features for direct comparison. To compare product features, a feature-by-feature analysis of competing digital marketing and software solutions for tour operators would be needed.  It is unclear how their specific features (like chatbots, digital waivers, review management) compare in functionality and effectiveness to those offered by competitors.
+
+</summary>
+<data_gaps>
+To provide a more comprehensive analysis of product features, the following information is needed:
+
+*   **Detailed feature descriptions:**  More in-depth descriptions of each feature, including functionalities and benefits.
+*   **Competitor feature comparison:**  A comparison table outlining similar features offered by competitors and highlighting Tour Marketing Suite's differentiators.
+*   **Technology integrations:**  Specific details about integrations with reservation technologies and other relevant platforms used in the tourism industry.
+*   **Case studies or examples:**  Examples of how these features have benefited tour and activity providers.
+</data_gaps>
+</criterion_name>
+
+<criterion_name>
+Pricing and Average Selling Price (ASP)
+</criterion_name>
+<summary>
+Limited information is available regarding the specific pricing structure and Average Selling Price (ASP) of Tour Marketing Suite's services.
+
+**Minimum Price:**
+While a specific minimum price for Tour Marketing Suite's core services isn't explicitly stated,  their marketing plans are mentioned to start at **$1,500 per month**. However, this likely refers to their marketing *plans* and not necessarily the minimum price for all individual tools or services they offer.  A snorkeling tour package example mentioned a price starting at **$95 per person**, but this seems to be an example of a *customer's* tour pricing, not Tour Marketing Suite's service pricing.
+
+**Average Selling Price (ASP):**
+There is no explicit mention of the Average Selling Price (ASP) for Tour Marketing Suite's services in the provided search results.
+
+**Factors Impacting Price:**
+The search results suggest that Tour Marketing Suite offers custom-tailored marketing plans, indicating that pricing is likely dependent on:
+
+*   **Customization and Scope of Services:**  Plans are "custom tailored to your business' unique needs, requirements and budget," suggesting pricing varies based on the specific services included (e.g., PPC, social media, SEO, email marketing, etc.) and the level of management required.
+*   **Business Size and Needs:** Pricing plans are available to businesses that operate year-round or seasonally, implying that business size and operational scale might influence pricing.
+
+It is important to note that the pricing information is very limited and lacks specifics on how different features or service packages are priced.
+
+</summary>
+<data_gaps>
+To understand the pricing strategy, the following information is crucial:
+
+*   **Pricing Models:**  Details on their pricing models (e.g., subscription-based, tiered pricing, custom quotes).
+*   **Pricing Tiers/Packages:** Information on different service packages and their corresponding prices.
+*   **Factors influencing price:**  A clearer breakdown of factors that determine pricing, such as the number of seats (if applicable), volume, specific features selected, contract length, etc.
+*   **ASP Data:**  Average Selling Price (ASP) for different service packages or common client profiles.
+*   **Competitor Pricing:**  Comparison of pricing with competitors to understand market positioning.
+</data_gaps>
+</criterion_name>
+
+<criterion_name>
+Product Strengths / Weaknesses
+</criterion_name>
+<summary>
+Based on the provided search results, we can infer some potential strengths and weaknesses of Tour Marketing Suite.
+
+**Strengths:**
+
+*   **Industry Specialization:**  A key strength is their exclusive focus on the tour and activity industry. This specialization allows them to develop targeted marketing strategies and tools tailored to the unique challenges and opportunities within this sector. They "speak tourism" and understand the specific needs of tour operators.
+*   **Experienced Team:**  They highlight a US-based team with over 30 years of tourism marketing experience and certified partnerships with major platforms (Google, Bing, Facebook). This suggests a high level of expertise and credibility in digital marketing for tourism.
+*   **Comprehensive Service Suite:**  They offer a wide range of services, from digital marketing and advertising to automation and customer care tools, aiming to be an "all-in-one" solution for tour operators' digital needs.
+*   **Focus on ROI:**  They emphasize delivering exceptional ROI and transparency through detailed expenditure reporting, suggesting a performance-driven approach.
+*   **Flexible Agreements:** Operating without long-term contracts can be seen as a strength, offering clients flexibility.
+*   **Marketing Intelligence & Automation:**  They offer tools for real-time marketing intelligence, review management, call tracking, and marketing dashboards, indicating a focus on data-driven decision-making and automation to improve efficiency.
+
+**Weaknesses:**
+
+*   **Lack of Specificity:** The search results are somewhat high-level and lack detailed information about the functionality and effectiveness of their tools and services. It's difficult to assess the depth and sophistication of their offerings based on the marketing materials alone.
+*   **Pricing Transparency:** Limited pricing information is available, making it challenging to evaluate cost-effectiveness and compare against competitors. The starting price of $1,500/month for marketing plans might be perceived as a barrier for smaller operators.
+*   **Customer Perception (Limited Data):**  Direct customer reviews are not readily available in the provided search snippets.  Without customer testimonials or independent reviews, it's hard to gauge customer perception of product design, quality, and price.  One snippet mentions "Bad Experience Doesn't Mean Bad Review," which *could* be interpreted as proactively managing negative reviews, but more context is needed.
+
+**Customer Perception (Inferred):**
+
+*   **Product Design & Quality:**  The website emphasizes expertise and tailored solutions, suggesting a focus on quality and customized services. However, without customer reviews or product demos, it's difficult to assess actual product design and quality.
+*   **Price:**  Perception of price is unclear without knowing specific pricing packages. The $1,500/month starting price for marketing plans might be perceived as moderate to expensive depending on the target customer segment (small vs. large tour operators) and the scope of services included.
+
+</summary>
+<data_gaps>
+To gain a clearer understanding of product strengths and weaknesses and customer perception, the following is needed:
+
+*   **Customer Reviews and Testimonials:**  Access to customer reviews, testimonials, and case studies to understand user experiences and satisfaction levels.
+*   **Product Demonstrations or Trials:**  Hands-on experience with their tools or demos to evaluate product design, quality, and usability.
+*   **Feature Depth and Functionality:**  More detailed information about the features and functionalities of their software and services to assess their technical strengths and weaknesses.
+*   **Competitive Benchmarking:**  Independent comparisons against competitor products in terms of features, performance, and pricing.
+*   **Customer Surveys:**  Data from customer surveys or feedback to understand how customers perceive their product design, quality, price, and overall value proposition.
+</data_gaps>
+</criterion_name>
+</competitor_analysis>
